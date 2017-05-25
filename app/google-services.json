@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260280797002",
+    "firebase_url": "https://signin-ee758.firebaseio.com",
+    "project_id": "signin-ee758",
+    "storage_bucket": "signin-ee758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260280797002:android:d79e7cd1e190e572",
+        "android_client_info": {
+          "package_name": "p2_vaio.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260280797002-kastgo9a77d1m7viie9ooqqrccv2ajfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "p2_vaio.signin",
+            "certificate_hash": "9b0bf1c898401a81504e832bbc205869fc54d368"
+          }
+        },
+        {
+          "client_id": "260280797002-2jjqm51a3qb0qd52kppjnq28sth8vlvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrR2-mkSFnDdFJyFzvrjnFiOPZZbJrrk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260280797002-2jjqm51a3qb0qd52kppjnq28sth8vlvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

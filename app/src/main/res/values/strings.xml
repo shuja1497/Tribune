@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">signin</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="facebook_app_id">221890651617265</string>
+    <string name="fb_login_protocol_scheme">fb221890651617265</string>
+
+</resources>
